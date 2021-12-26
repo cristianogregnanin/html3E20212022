@@ -1,0 +1,38 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 1ff0bbf..a734def 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,26 @@[m
+ # html3E20212022[m
+ progetto 3E per l'uso di GIT[m
+[32m+[m
+[32m+[m[32mPer il progetto HTML, nel file "index.html"[m[41m [m
+[32m+[m[32mognuno deve completare la tabella inserita.[m
+[32m+[m[32m Dopo ognuno devono creare una nuova scheda,[m
+[32m+[m[32m chiamata "cognome_nome_3E" nella quale tramite il comando html <ul> e <li>, inserire Nome, cognome, classe ed email.[m
+[32m+[m[32mCome esempio:[m
+[32m+[m[32m<html>[m
+[32m+[m
+[32m+[m[32m<body>[m
+[32m+[m	[32m<ul>[m
+[32m+[m	[32m  <li>nome</li>[m
+[32m+[m	[32m  <li>cognome</li>[m
+[32m+[m[32m          <li>classe 3E</li>[m
+[32m+[m[32m          <li>nome.cognome@iisviolamarchesini.edu.it</li>[m
+[32m+[m	[32m</ul>[m
+[32m+[m[32m</body>[m
+[32m+[m
+[32m+[m[32m</html>[m
+[32m+[m
+[32m+[m[32m*opzionale[m
+[32m+[m[32mse qualcono vuole aggiungere dei colori di bordo per il suo file personale[m
+[41m+[m
+[41m+[m
+[41m+[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 8b13789..139597f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+ [m
+[32m+[m
